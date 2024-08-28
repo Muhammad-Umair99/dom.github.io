@@ -1,0 +1,19 @@
+.heading{
+    color: blue;
+   
+    background-color: yellow;
+}
+h4{
+    color: black;
+}
+p{
+    color: yellow;
+    font-size: 20px;
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: blue;
+    color: white;
+}
